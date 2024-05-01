@@ -1,6 +1,6 @@
 ### Olá eu sou a Ana Roling 👋
 
-- 🔭 Eu estou trabalhando com back-end
+- 🔭 Trabalhando com back-end
 - 🌱 Atualmente estudando JAVA 
 - 😄 Pronomes: ela/dela
 ##
